@@ -1,0 +1,48 @@
+﻿  assignment3.cpp
+..\assignment3.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(211): warning C4018: '<': signed/unsigned mismatch
+..\assignment3.cpp(212): warning C4018: '<': signed/unsigned mismatch
+..\assignment3.cpp(214): warning C4018: '<': signed/unsigned mismatch
+..\assignment3.cpp(344): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(345): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(348): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(349): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(350): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(351): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(352): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(370): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(371): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(372): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(373): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(374): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(375): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(386): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\assignment3.cpp(389): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(390): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(393): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(394): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(401): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(402): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(403): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(404): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(405): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(406): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(458): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(458): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(459): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(459): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(460): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(460): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\assignment3.cpp(461): warning C4305: 'argument': truncation from 'double' to 'float'
+..\assignment3.cpp(461): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  init.cpp
+..\init.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+..\init.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+..\init.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  All 377 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Fractals.vcxproj -> C:\Users\Tunc Gocay\Documents\Visual Studio 2015\Projects\Fractals\Release\Fractals.exe
+  Fractals.vcxproj -> C:\Users\Tunc Gocay\Documents\Visual Studio 2015\Projects\Fractals\Release\Fractals.pdb (Full PDB)
